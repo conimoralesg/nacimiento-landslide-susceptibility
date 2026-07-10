@@ -1,0 +1,17 @@
+# Large data files
+*.tif
+*.tiff
+*.gpkg
+data/raw/*.tif
+data/raw/*.gpkg
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# GEE credentials (por si acaso)
+*.json
+!README.md
