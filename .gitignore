@@ -4,6 +4,8 @@
 *.gpkg
 data/raw/*.tif
 data/raw/*.gpkg
+data/raw/*.gdb/
+*.gdb/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
